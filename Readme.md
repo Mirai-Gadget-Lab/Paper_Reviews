@@ -1,13 +1,12 @@
-# DeepLearning paper list
-
-A list of interesting papers on computer vision and deep learning.
+# DeepLearning Paper List
+A list of papers that we reviewd.
 
 ## Contents
 - [Data-Privacy](#Data-Privacy) 
 - [Computer-Vision](#Computer-Vision)
-  -[Self-Supervised-Learning](#Self-Supervised-Learning)
-  -[ViewPoint-Estimation](#ViewPoint-Estimation)
-  -[Image-Synthesis](#Image-Synthesis)
+  - [Self-Supervised-Learning](#Self-Supervised-Learning)
+  - [ViewPoint-Estimation](#ViewPoint-Estimation)
+  - [Image-Synthesis](#Image-Synthesis)
 
 # Data-Privacy
 
