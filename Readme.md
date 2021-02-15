@@ -6,7 +6,7 @@ A list of papers that we reviewd.
   - [Self-Supervised-Learning](#Self-Supervised-Learning)
   - [Image-Synthesis](#Image-Synthesis)
   - [Others](#Others)
-- [Others](#Others)
+- [Etc](#Etc)
 
 # Computer-Vision
 ## Self-Supervised Learning
@@ -27,8 +27,8 @@ Title | Contributions | Code | reviewer |
 --- | --- | --- | --- |
 Cylindrical Convolutional Networks for Joint Object Detection and Viewpoint Estimation(CVPR 2020)[[pdf]](https://arxiv.org/abs/2003.11303) | <ul><li> Extract the view-specific feature conditioned on the object viewpoint that encodes structural information at each viewpoint <il><li> Differentiable argmax operator called sinusoidal soft-argmax that can manage sinusoidal | [code](https://github.com/sunghunjoung/CCNs/) | [Young Woo Nam](https://medium.com/@yw_nam/paper-review-cylindrical-convolutional-networks-for-joint-object-detection-and-viewpoint-813acead4b2c)
 
-## Others
+# Etc
 
 Title | Contributions | Code | reviewer |
 --- | --- | --- | --- |
-Learn From Distributed Asynchronized GAN Without Sharing Medical Image Data(CVPR 2020)[[pdf]](https://arxiv.org/abs/2006.00080) | <ul><li> Prevent privacy violation using GAN | [code](https://github.com/tommy-qichang/AsynDGAN) | [Young Woo Nam](https://medium.com/analytics-vidhya/paper-review-asyndgan-train-deep-learning-without-sharing-medical-image-data-ac93b5592be4) |
+Learn From Distributed Asynchronized GAN Without Sharing Medical Image Data(CVPR 2020)[[pdf]](https://arxiv.org/abs/2006.00080) | <ul><li> In clinical environment, Prviacy violation is critical point. So, this paper handle this problem by Synthesis image using GAN | [code](https://github.com/tommy-qichang/AsynDGAN) | [Young Woo Nam](https://medium.com/analytics-vidhya/paper-review-asyndgan-train-deep-learning-without-sharing-medical-image-data-ac93b5592be4) |
