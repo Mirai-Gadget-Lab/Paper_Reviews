@@ -13,7 +13,6 @@ A list of papers that we reviewd.
 Title | Contributions | Code | reviewer |
 --- | --- | --- | --- |
 Learn From Distributed Asynchronized GAN Without Sharing Medical Image Data(CVPR 2020)[[pdf]](https://arxiv.org/abs/2006.00080) | <ul><li> Prevent privacy violation using GAN | [code](https://github.com/tommy-qichang/AsynDGAN) | [Young Woo Nam](https://medium.com/analytics-vidhya/paper-review-asyndgan-train-deep-learning-without-sharing-medical-image-data-ac93b5592be4) |
-Unsupervised Model Personalization while Preserving Privacy and Scalability An Open Problem(CVPR 2020)[[pdf]](https://arxiv.org/abs/2003.13296) | <ul><li> DUA framework-a single model that multiple task-specific model compressed | [code](https://github.com/mattdl/DUA) | - | 
 
 # Computer-Vision
 ## Self-Supervised Learning
